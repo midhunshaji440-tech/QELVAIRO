@@ -55,3 +55,4 @@ If the enquiry API cannot be reached, the contact page only opens an email draft
 The materials attached to this task contained the written brief but did not include the official QELVAIRO logo image. The site therefore uses a typographic wordmark as a temporary text treatment and does not redraw a logo. Replace that text treatment with the supplied official logo asset when it is available.
 
 Portfolio entries are explicitly marked **Concept Project**. The artwork is built from local CSS and SVG, so it does not depend on remote stock images.
+Performance improvements are being tested.
